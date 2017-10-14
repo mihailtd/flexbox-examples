@@ -1,4 +1,16 @@
-# flexbox-examples
-### Frontend examples using Flexbox
+# Front-End UX/UI
+### Coding UI designs using simple HTML, CSS and JS.
 
-* Horizontal menu with equal space between items
+* UI_1 - Healthy Food app landing page design using mostly `flexbox` and `keyframe animations`
+  * Two section (left/right) design
+  * Image and background color carousel-style animation
+  * Flat rounded corner button
+  * Three option language toggle
+  * Minimalistic design
+
+
+## Inspiration: 
+![Inspiration](./ui_1/assets/ideea.gif "Inspiration")
+
+## Result:
+![Inspiration](./ui_1/assets/result.gif "Inspiration")

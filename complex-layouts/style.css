@@ -1,0 +1,51 @@
+* { box-sizing: border-box; }
+html, body {
+  background: #333338;
+  font-family: Georgia, serif;
+  font-size: 16px;
+  color: #444;
+}
+h1,h2,h3,h4,h5,h6 {
+  font-family: Arial, sans-serif;
+}
+
+.main-content .panel img {
+  float: left;
+  margin: 0 10px 0 0;
+}
+
+.main-content, .sidebar {
+  margin: 10px;
+  background: #eee;
+  padding: 6px;
+}
+
+.main-content {
+  flex: 3;
+}
+
+.sidebar {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  flex: 1;
+}
+
+.sidebar h3 {
+  font-size: 14px;
+  margin: 0;
+}
+
+.sidebar p {
+  font-size: 12px;
+}
+
+.panel {
+  background: #fff;
+  padding: 20px;
+  margin: 10px;
+}
+
+.container {
+  display: flex;
+}
