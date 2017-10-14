@@ -87,6 +87,8 @@ button {
 }
 
 .message1 {
+  margin-bottom: -10vh;
+  font-family: 'Archivo Black', sans-serif;
   animation-name: textSlideInUp;
   animation-duration: 5s;
   animation-direction: alternate;
@@ -96,6 +98,7 @@ button {
 }
 
 .message2 {
+  font-family: 'Archivo Black', sans-serif;
   animation-name: textSlideInDown;
   animation-duration: 5s;
   animation-direction: alternate;
